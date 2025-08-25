@@ -5,6 +5,13 @@
 # serve para organização, padronização e metadados que ajudam outros
 # desenvolvedores ou  o sistema operacional a entender como rodar o arquivo.
 
+# ----------------------------------------------------------------------------
+# Script: cadeira_preto.py
+# Created By: Ruan Neves
+# Created Date: 2025-08-25
+# Version: 1.0
+# ---------------------------------------------------------------------------
+
 """ 
 Docstring:
 é uma string de documentação colocada logo após a definição de módulos, funções, 
@@ -14,3 +21,5 @@ execução (`.__doc__` ou `help()`). Sua função é explicar de forma estrutura
 o que o código faz, quais parâmetros recebe, o que retorna e outras instruções, 
 sendo essencial para documentação oficial e geração automática de guias do programa.
 """
+
+
